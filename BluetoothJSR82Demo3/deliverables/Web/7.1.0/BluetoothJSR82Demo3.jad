@@ -1,0 +1,16 @@
+MIDlet-Name: BluetoothJSR82Demo3
+MIDlet-Version: 0.9
+MIDlet-Vendor: Research In Motion Ltd.
+MIDlet-Jar-URL: BluetoothJSR82Demo3.jar
+MIDlet-Jar-Size: 48013
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Bluetooth JSR 82 Demo3,img/bluetoothJSR82demo_jde.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: BluetoothJSR82Demo3.cod
+RIM-COD-Size: 21332
+RIM-COD-Creation-Time: 1354909264
+RIM-COD-Module-Name: BluetoothJSR82Demo3
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bluetooth,net_rim_ui_api
+RIM-COD-SHA1: 83 b4 b3 d2 5a 16 be 65 38 e2 a3 72 54 3a 00 0e 31 97 60 28

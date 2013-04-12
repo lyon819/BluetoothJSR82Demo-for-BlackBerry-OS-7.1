@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="BluetoothJSR82Demo3">
+		<name >
+			Bluetooth JSR 82 Demo3
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			0.9
+		</version>
+		<vendor >
+			Research In Motion Ltd.
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Research In Motion Ltd.
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				BluetoothJSR82Demo3.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
